@@ -4,7 +4,8 @@
 
 - I like programming and tea 🍵.
 - I cancel most of my projects.
-- I am Lithuanian.
+- Lithuanian.
+- Most of the code I produce is spaghetti code.
 
 > ## Discord, Guilded & More
 > Currently, I only use these:
