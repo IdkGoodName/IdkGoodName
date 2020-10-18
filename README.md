@@ -19,4 +19,4 @@
 
 > ## Projects
 > - [![EpsilonZip](https://img.shields.io/badge/Being%20worked%20on-EpsilonZip-red?style=for-the-badge)](https://github.com/IdkGoodName) Zip manager based on Avalonia and .NET 5.
-> - [![Guilded.NET](https://img.shields.io/badge/Will%20work%20on-Guilded.NET-yellow?style=for-the-badge)](https://github.com/IdkGoodName) API wrapper for Guilded.gg on .NET.
+> - [![Guilded.NET](https://img.shields.io/badge/Being%20worked%20on-Guilded.NET-yellow?style=for-the-badge)](https://github.com/IdkGoodName) API wrapper for Guilded.gg on .NET.
