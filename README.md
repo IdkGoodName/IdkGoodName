@@ -7,10 +7,11 @@
 - Lithuanian.
 - Most of the code I produce is spaghetti code.
 
-> ## Discord, Guilded & More
+> ## Social Media
 > Currently, I only use these:
 > - **Guilded:** [IdkGoodName](https://www.guilded.gg/profile/R40Mp0Wd)
 > - **Discord:** `IdkGoodName#2588`
+> - **Reddit:** [u/IdkGoodNameV](https://www.reddit.com/user/IdkGoodNameV)
 
 > ## Languages
 > - [![C#](https://img.shields.io/badge/Uses-C%23-green?style=for-the-badge)](https://github.com/IdkGoodName)
