@@ -7,13 +7,24 @@
 - Lithuanian.
 - Most of the code I produce is spaghetti code.
 
-> ## Social Media
-> Currently, I only use these:
-> - **Guilded:** [IdkGoodName](https://www.guilded.gg/profile/R40Mp0Wd)
-> - **Discord:** `IdkGoodName#2588`
-> - **Reddit:** [u/IdkGoodNameV](https://www.reddit.com/user/IdkGoodNameV)
+## Social Media
+Currently, I only use these:
+- **Guilded:** [IdkGoodName](https://www.guilded.gg/profile/R40Mp0Wd)
+- **Reddit:** [u/IdkGoodNameV](https://www.reddit.com/user/IdkGoodNameV)
 
-> ## Languages
-> - [![C#](https://img.shields.io/badge/Uses-C%23-green?style=for-the-badge)](https://github.com/IdkGoodName)
-> - [![JS](https://img.shields.io/badge/Knows-JS-yellow?style=for-the-badge)](https://github.com/IdkGoodName) [![D](https://img.shields.io/badge/Knows-D-red?style=for-the-badge)](https://github.com/IdkGoodName) [![C++](https://img.shields.io/badge/Knows-C%2B%2B-purple?style=for-the-badge)](https://github.com/IdkGoodName) [![Java](https://img.shields.io/badge/Knows-Java-yellow?style=for-the-badge)](https://github.com/IdkGoodName) [![Kotlin](https://img.shields.io/badge/Knows-Kotlin-orange?style=for-the-badge)](https://github.com/IdkGoodName) [![Lua](https://img.shields.io/badge/Knows-Lua-darkblue?style=for-the-badge)](https://github.com/IdkGoodName)
-> - [![Rust](https://img.shields.io/badge/Wants%20to%20learn-Rust-brown?style=for-the-badge)](https://github.com/IdkGoodName)
+## Languages
+Language | Uses | Knows | Wants to learn
+-------- | :--: | :---: | :------------:
+C#       |  ✅  |   ✅   |
+JS       |      |   ✅   |
+D        |  ✅  |   ✅   |
+C++      |      |   ✅   |
+Java     |      |   ✅   |
+Kotlin   |      |   ✅   |
+Lua      |      |   ✅   |
+Rust     |      |        |   ✅
+
+## Projects
+- [Guilded.NET](https://github.com/Guilded-NET) - API wrapper
+- [Plum](https://github.com/PlumLang) - programming language
+- [Tangerine](https://github.com/IdkGoodName/Tangerine) - programming language
