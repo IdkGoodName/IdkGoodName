@@ -24,6 +24,11 @@ Kotlin   |      |   ✅   |
 Lua      |      |   ✅   |
 Rust     |      |        |   ✅
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IdkGoodName&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IdkGoodName&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IdkGoodName&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=IdkGoodName&theme=monokai)
+
 ## Projects
 - [Guilded.NET](https://github.com/Guilded-NET) - API wrapper
 - [Plum](https://github.com/PlumLang) - programming language
