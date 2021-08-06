@@ -16,13 +16,12 @@ Currently, I only use these:
 Language | Uses | Knows | Wants to learn
 -------- | :--: | :---: | :------------:
 C#       |  ✅  |   ✅   |
-JS       |      |   ✅   |
-D        |  ✅  |   ✅   |
+JS       |  ✅  |   ✅   |
+D        |      |   ✅   |
 C++      |      |   ✅   |
 Java     |      |   ✅   |
 Kotlin   |      |   ✅   |
 Lua      |      |   ✅   |
-Rust     |      |        |   ✅
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IdkGoodName&theme=monokai)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IdkGoodName&theme=monokai)
