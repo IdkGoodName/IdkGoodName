@@ -30,5 +30,4 @@ Lua      |      |   ✅   |
 
 ## Projects
 - [Guilded.NET](https://github.com/Guilded-NET) - API wrapper
-- [Plum](https://github.com/PlumLang) - Programming language
 - [ReGuilded](https://github.com/ReGuilded) - Client injector
