@@ -5,7 +5,7 @@
 - [Guilded.NET](https://github.com/Guilded-NET) `Leading Maintainer` `Founder` — API wrapper for Guilded API
 - [ReGuilded](https://github.com/ReGuilded) `Leading Maintainer`  Client injector for Guilded official app
 - Guilds & Slashes `Leading Maintainer` `Owner` — Guilded bot to upgrade your D&D and RP sessions
-- Yoki bot `Developer` — Moderation-first bot for Guilded
+- Yoki bot `Head Developer` — Moderation-first bot for Guilded
 
 ## 🌎 Social Media
 
