@@ -7,10 +7,6 @@
 - Guilds & Slashes `Leading Maintainer` `Owner` — Guilded bot to upgrade your D&D and RP sessions
 - Yoki bot `Head Developer` — Moderation-first bot for Guilded
 
-## 🌎 Social Media
-
-- **Guilded:** [IdkGoodName](https://www.guilded.gg/profile/R40Mp0Wd)
-
 ## ⚡ Technologies
 
 - ✍️ **Stuff I use:** [![.NET](https://img.shields.io/badge/-.NET-purple?style=flat-square&logo=dotnet)](https://github.com/IdkGoodName) [![C#](https://img.shields.io/badge/-C%23-green?style=flat-square&logo=csharp)](https://github.com/IdkGoodName) [![NuGet](https://img.shields.io/badge/-NuGet-blue?style=flat-square&logo=nuget)](https://github.com/IdkGoodName) [![ASP.NET](https://img.shields.io/badge/-ASP.NET-purple?style=flat-square&logo=dotnet)](https://github.com/IdkGoodName) [![JS](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)](https://github.com/IdkGoodName) [![TS](https://img.shields.io/badge/-TypeScript-blue?style=flat-square&logo=typescript&logoColor=white)](https://github.com/IdkGoodName) [![Preact](https://img.shields.io/badge/-Preact-blue?style=flat-square&logo=react&logoColor=white)](https://github.com/IdkGoodName)
