@@ -10,7 +10,6 @@
 ## 🌎 Social Media
 
 - **Guilded:** [IdkGoodName](https://www.guilded.gg/profile/R40Mp0Wd)
-- **Reddit:** [u/IdkGoodNameV](https://www.reddit.com/user/IdkGoodNameV)
 
 ## ⚡ Technologies
 
